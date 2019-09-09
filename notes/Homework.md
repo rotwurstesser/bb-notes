@@ -1,8 +1,9 @@
 ---
+favorited: true
 tags: [skewl]
 title: Homework
 created: '2019-09-09T14:20:40.586Z'
-modified: '2019-09-09T14:30:07.539Z'
+modified: '2019-09-09T14:40:39.518Z'
 ---
 
 # Homework

@@ -1,8 +1,9 @@
 ---
+favorited: true
 tags: [skewl]
 title: Inputs Ioana und Andrea
 created: '2019-09-09T14:25:19.432Z'
-modified: '2019-09-09T14:30:19.317Z'
+modified: '2019-09-09T14:41:16.824Z'
 ---
 
 # Inputs Ioana und Andrea
@@ -20,7 +21,8 @@ add more images
 show transitions in design not statically but perhaps in the transition itself and then end step therefore showing interactivity
 
 inputs andrea:
-### farben auf meta ebene suchen
+
+### farben auf meta ebene suchen
 BEISPIEL: -> fixie -> modern -> provokativ -> farben und kontraste modern und provokativ
 mit farben und flächen spielen! nicht nur bilder!
 stroke width of svg needs top be consistent with border widths and borders! 
