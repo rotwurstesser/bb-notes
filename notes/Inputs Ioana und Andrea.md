@@ -3,7 +3,7 @@ favorited: true
 tags: [skewl]
 title: Inputs Ioana und Andrea
 created: '2019-09-09T14:25:19.432Z'
-modified: '2019-09-09T14:41:16.824Z'
+modified: '2019-09-10T08:22:44.545Z'
 ---
 
 # Inputs Ioana und Andrea
@@ -20,8 +20,7 @@ Break down in formation and show them in nice ways
 add more images
 show transitions in design not statically but perhaps in the transition itself and then end step therefore showing interactivity
 
-inputs andrea:
-
+## inputs andrea:
 ### farben auf meta ebene suchen
 BEISPIEL: -> fixie -> modern -> provokativ -> farben und kontraste modern und provokativ
 mit farben und flächen spielen! nicht nur bilder!
