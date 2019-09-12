@@ -5,7 +5,7 @@ pinned: true
 tags: [skewl]
 title: Homework
 created: '2019-09-09T14:20:40.586Z'
-modified: '2019-09-11T12:46:43.448Z'
+modified: '2019-09-12T14:25:08.959Z'
 ---
 
 # Homework
@@ -13,7 +13,7 @@ modified: '2019-09-11T12:46:43.448Z'
 Presentation:
 - [ ] (m)eine reise präsentation vorbereiten
 dezember präsi machen und an werren senden dauer: 5 min
-- [ ] read augmented reality stuff as homework 
+- [x] read augmented reality stuff as homework 
 - [ ] make presi in october with jenny and cedric
 
 
