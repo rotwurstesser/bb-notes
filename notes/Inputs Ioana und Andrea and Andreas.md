@@ -1,12 +1,12 @@
 ---
 favorited: true
 tags: [skewl]
-title: Inputs Ioana und Andrea
+title: Inputs Ioana und Andrea and Andreas
 created: '2019-09-09T14:25:19.432Z'
-modified: '2019-09-10T08:22:44.545Z'
+modified: '2019-09-13T06:25:53.720Z'
 ---
 
-# Inputs Ioana und Andrea
+# Inputs Ioana und Andrea and Andreas
 
 inputs andrea and ioana Design
 
@@ -45,3 +45,8 @@ now the title - you see it makes a little triangle?
 yea it's a bit too much text - and more than that : too many font sizes. 
 ### a classic rule says aim for no more than 3 sizes... 
 ### also the differences between sizes should be very clear. if you kinda wonder what is smaller and what bigger it looks like it's a mistake.
+
+
+# Andreas
+
+Animation should be used for loading transitions, when data needs to be loaded slow animations suck https://cher-ami.tv/en also uses way too much bandwidth and stuff
