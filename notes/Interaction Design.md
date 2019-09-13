@@ -1,8 +1,9 @@
 ---
+attachments: [Clipboard_2019-09-13-09-13-18.png, Clipboard_2019-09-13-09-22-06.png, Clipboard_2019-09-13-09-39-26.png]
 tags: [skewl]
 title: Interaction Design
 created: '2019-09-09T15:16:36.789Z'
-modified: '2019-09-10T14:02:31.201Z'
+modified: '2019-09-13T07:39:26.442Z'
 ---
 
 # Interaction Design
@@ -218,6 +219,33 @@ Recap Feedback
     Wie komme ich von A nach B?
 2. Unterricht verbessern
     Praxisbezug?
+
+
+# begriffe
+
+## affordance
+
+all actions that are possible by an object <- a button can be clicked, its affordance is that its clickable
+perceived affordance: if you give an element the feel of it being able to do stuff: design a headline like a button and it does nothing on click
+if we design we should design so we are aware of both real and perceived affordance, we should make the button behave and feel like a button but avoid making none-buttons feel like one. also a inoput field that is rounded and explains what it does on input is adffordance for example :
+![](@attachment/Clipboard_2019-09-13-09-39-26.png)
+we should also know and think about the environment something is in when we assume users know the functions of things, both cultural and contextual.
+- Convention: use what people know! a hamburger menu with triangle is useless, position where things are expected as well
+- Signage: use labels for input values, 
+- Metaphor: use the elements in context <- on a shopping page use a shopping cart
+- continuity : use same elements for same things over and over, dont break patterns
+
+### Affordance in ui:
+we talk about **explicit affordance** if elements in ui design are obviously representing their actions like a button that is also clickable in real life and if ypu add a label or more text you get more infos about what the click does therefore the element explains itself even better see the button:
+![](@attachment/Clipboard_2019-09-13-09-13-18.png)
+
+we talk about **implicit affordance** when it is not obvious until the user triggers the action, a tooltip for example or a burger menu since it only displays its feedback when clicked or hovered tooltips and hamburger menus for example
+![](@attachment/Clipboard_2019-09-13-09-22-06.png)
+
+We can also talk about ** negative affordance ** when we take elements its function: when we grey out a send button in a form because its invalid for example
+
+
+more here: https://uxplanet.org/ux-design-glossary-how-to-use-affordances-in-user-interfaces-393c8e9686e4
 
 
 
