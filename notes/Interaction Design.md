@@ -3,7 +3,7 @@ attachments: [Clipboard_2019-09-13-09-13-18.png, Clipboard_2019-09-13-09-22-06.p
 tags: [skewl]
 title: Interaction Design
 created: '2019-09-09T15:16:36.789Z'
-modified: '2019-09-13T07:39:26.442Z'
+modified: '2019-09-13T08:03:23.481Z'
 ---
 
 # Interaction Design
@@ -223,6 +223,17 @@ Recap Feedback
 
 # begriffe
 
+## feedback
+
+user feedback <- system answers! 
+spinner.gif hey i am loading
+weak feedback: often used actions need weak feedbacks, when we save which we do often we dont want a popup telling us to do it
+strong feedback: data uplaod or other mission critical things need strong feedback <- prompt when user wants to delete!
+feedback for loading is needed after 1sec loading of items.
+
+feedforward is feedback that tells you before what will happen next
+
+
 ## affordance
 
 all actions that are possible by an object <- a button can be clicked, its affordance is that its clickable
@@ -246,6 +257,20 @@ We can also talk about ** negative affordance ** when we take elements its funct
 
 
 more here: https://uxplanet.org/ux-design-glossary-how-to-use-affordances-in-user-interfaces-393c8e9686e4
+
+## mental models
+
+user dont need to know the background actions <- simplified interaction
+designer need to think about the mental model of users
+simplified interface
+optimal interface is when all options are usable and togleabble wîthout knowing the background oif the elements
+
+## natural mapping
+
+things need to behave in a natural way! if i pull DOWN a lever the window in the car goes DOWN, if u pull it it goes UP.
+also layout and positioning is important. if i have a element close to another elment or in the same order then i can know what element triggers what.
+also color mapping : red is dangerous and green is ok
+less options is better, too many pbuttons are too many option
 
 
 
