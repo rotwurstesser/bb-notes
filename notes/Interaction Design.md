@@ -3,7 +3,7 @@ attachments: [Clipboard_2019-09-13-09-13-18.png, Clipboard_2019-09-13-09-22-06.p
 tags: [skewl]
 title: Interaction Design
 created: '2019-09-09T15:16:36.789Z'
-modified: '2019-09-13T08:03:23.481Z'
+modified: '2019-09-13T09:56:22.399Z'
 ---
 
 # Interaction Design
@@ -271,6 +271,9 @@ things need to behave in a natural way! if i pull DOWN a lever the window in the
 also layout and positioning is important. if i have a element close to another elment or in the same order then i can know what element triggers what.
 also color mapping : red is dangerous and green is ok
 less options is better, too many pbuttons are too many option
+
+
+
 
 
 
