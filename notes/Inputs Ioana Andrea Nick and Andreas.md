@@ -1,18 +1,18 @@
 ---
 favorited: true
 tags: [skewl]
-title: Inputs Ioana und Andrea and Andreas
+title: Inputs Ioana Andrea Nick and Andreas
 created: '2019-09-09T14:25:19.432Z'
-modified: '2019-09-13T06:25:53.720Z'
+modified: '2019-09-14T06:24:08.768Z'
 ---
 
-# Inputs Ioana und Andrea and Andreas
+# Inputs Ioana Andrea Nick and Andreas
 
 inputs andrea and ioana Design
 
 netflix -> abstract
 
-## ioana inputs: 
+# ioana inputs: 
 dont bother about prototyping i  erarly design stages, use time for design!
 formula to calculate row length accoreding to letter size 
 show more visual elements, use scrolling for visual story telling like 
@@ -20,7 +20,7 @@ Break down in formation and show them in nice ways
 add more images
 show transitions in design not statically but perhaps in the transition itself and then end step therefore showing interactivity
 
-## inputs andrea:
+# inputs andrea:
 ### farben auf meta ebene suchen
 BEISPIEL: -> fixie -> modern -> provokativ -> farben und kontraste modern und provokativ
 mit farben und flächen spielen! nicht nur bilder!
@@ -50,3 +50,9 @@ yea it's a bit too much text - and more than that : too many font sizes.
 # Andreas
 
 Animation should be used for loading transitions, when data needs to be loaded slow animations suck https://cher-ami.tv/en also uses way too much bandwidth and stuff
+
+# Nick: 
+
+need a svg logo? rip it from a media publishmenet pdf with illustrator ✨
+
+
