@@ -3,7 +3,7 @@ favorited: true
 tags: [skewl]
 title: Inputs Ioana Andrea Nick and Andreas
 created: '2019-09-09T14:25:19.432Z'
-modified: '2019-09-14T06:24:08.768Z'
+modified: '2019-09-14T06:26:30.600Z'
 ---
 
 # Inputs Ioana Andrea Nick and Andreas
@@ -53,6 +53,6 @@ Animation should be used for loading transitions, when data needs to be loaded s
 
 # Nick: 
 
-need a svg logo? rip it from a media publishmenet pdf with illustrator ✨
+need a svg logo? rip it from a media handed out pdf with illustrator ✨
 
 
