@@ -3,7 +3,7 @@ attachments: [Clipboard_2019-09-13-09-13-18.png, Clipboard_2019-09-13-09-22-06.p
 tags: [skewl]
 title: Interaction Design
 created: '2019-09-09T15:16:36.789Z'
-modified: '2019-09-28T20:18:27.249Z'
+modified: '2019-09-28T21:05:44.038Z'
 ---
 
 # Interaction Design
@@ -17,7 +17,7 @@ Freitag, 6. September 2019
 
 ## designing the obvious
 
-the web has three layoers:
+the web has three layers:
 
 people
 ______ ________
@@ -45,6 +45,7 @@ how do we build and design nice stuff?
 2. know what makes the FUNCTION we build great
 3. know/find/experiment the best known and perceived ways of implementing said function
 
+User centered design:
 try and build personas but not too much, 3-4 are enough, having too much means you are trying to please everyone and that aint possible, define a main persona and keep in mind that this is the number 1 client, cater to their needs as best as you can
 write down what they want to use the site for and what they need and use most! try and go from there : how can i give XY a good design or feature to solve his problem of not finding his favorite type of banana?
  #### Developers wanna put up textboxes and popups and shit that shows the fancy things going on behind the code, well.... users don't give a fuck, in fact they don't want to be intruded on and are confused by this, THE USERS LIVE OUTSIDE OF THE APPLICATION, THE CREATORS INSIDE
@@ -53,6 +54,22 @@ we need to aknowledge that the users goals dont have to do with the webapplicati
 try and design or code with empathy, think about the user, even if you and the team are far off of what the user wants, try and get into their shoes, they are not developers or designers, they are users!
 but! we do not care who the users ARE we care about what they are doing! 
 
+Another type of design is the activity centerd design:
+try and find activities the users want to do or achieve and then break them down in tasks, these activitiesd can be something simple as : i want to get caught up with my mail, tasks can then be: 
+1. read mail/mark as read/unread
+2. delete mail
+3. archive mail
+4. send mail
+5. respond
+6. respond all
+
+this is just one approach but there is one more player: 
+Situation centered design:
+people like to over estimate the PERSONAL factors in things and underestimate SITUATIONAL factors, things like where the users are from and what they do for life are often deemed more important than they situation they are in which makes people design for user profiles instead of thinkiong that they change depending on the situation: peter wants an ipod shuffle in the gym but he wants a big sound system at home... so only because he is sporty doesnt mean he will necessary buy the ipod in the store, he can, in fact, easily buy the soundsystem !
+
+it isnt a type of person using the app, it is a person in a type of situation, think of five librarians, two are 25 year old POC, the rest is between 40 and 75, and from sweden, some play MTG, others DnD, others read norwegian thrillers in the spare time, bit they all want a good librarian application allowing them to work fast and easy!
+
+#### apps we design are solutions for problems, problems are situational! people are not! we do not need to know who they are or what they do in the spare time! we need to know what problems they face and need to give them tools to solve it!
 
 
 _____________________
