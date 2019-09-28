@@ -3,7 +3,7 @@ attachments: [Clipboard_2019-09-13-09-13-18.png, Clipboard_2019-09-13-09-22-06.p
 tags: [skewl]
 title: Interaction Design
 created: '2019-09-09T15:16:36.789Z'
-modified: '2019-09-13T09:56:22.399Z'
+modified: '2019-09-28T20:18:27.249Z'
 ---
 
 # Interaction Design
@@ -15,8 +15,47 @@ die art wie sachen sind ist oft historisch bedingt (siehe tastatur)
 Interaktivität
 Freitag, 6. September 2019
 
+## designing the obvious
+
+the web has three layoers:
+
+people
+______ ________
+interface
+_______ _______
+data
+
+people want data and things, people have data and things, people wanna give them
+data is the  broken down technical layer, the database, the post requests, all of it
+the interdace is waht allows the people to access this, its is what we design it gives acces, it is a door to the functions, the knowledge, the thing i code and design, and the trick is to make the data accessible and usable
+
+qualities of a great application
+- it is a product of intent, it was designed and conceptualized with a clear purpose and compassion and has a purpose
+- it focuses on the activity instead of the user doing it
+- it only has the features needed for the users activities and doesnt confuse with random side features
+- it is conform with the mental model of all users using it 
+- it helps users get started quickly and teaches them by its looks, feeling and features so they get onboarded fast and become masters using it
+- it stays deliberate yet ethical in nudging the user to certain actions
+- it makes it hard for the users to make mistakes, yet makes it easy to correct them
+- it has uniformly designed interface elements but breaks the uniform design to create meaning and importants
+- it reduces clutter to a minimum
+
+how do we build and design nice stuff?
+1. know/find out what FUNCTION to build exactly
+2. know what makes the FUNCTION we build great
+3. know/find/experiment the best known and perceived ways of implementing said function
+
+try and build personas but not too much, 3-4 are enough, having too much means you are trying to please everyone and that aint possible, define a main persona and keep in mind that this is the number 1 client, cater to their needs as best as you can
+write down what they want to use the site for and what they need and use most! try and go from there : how can i give XY a good design or feature to solve his problem of not finding his favorite type of banana?
+ #### Developers wanna put up textboxes and popups and shit that shows the fancy things going on behind the code, well.... users don't give a fuck, in fact they don't want to be intruded on and are confused by this, THE USERS LIVE OUTSIDE OF THE APPLICATION, THE CREATORS INSIDE
+
+we need to aknowledge that the users goals dont have to do with the webapplication, kurt, jannick and simon only want to enter their data and be done with the work before it's 11:30 so they can go get tacos next door, trying to explain them why the server doesnt respond doesnt help, giving them a way to prepare data and upload later when it works again does!
+try and design or code with empathy, think about the user, even if you and the team are far off of what the user wants, try and get into their shoes, they are not developers or designers, they are users!
+but! we do not care who the users ARE we care about what they are doing! 
 
 
+
+_____________________
 
 Was bedeudet «Interaktion»?
 
