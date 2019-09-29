@@ -3,7 +3,7 @@ attachments: [Clipboard_2019-09-13-09-13-18.png, Clipboard_2019-09-13-09-22-06.p
 tags: [skewl]
 title: Interaction Design
 created: '2019-09-09T15:16:36.789Z'
-modified: '2019-09-29T21:00:15.957Z'
+modified: '2019-09-29T21:24:49.717Z'
 ---
 
 # Interaction Design
@@ -74,6 +74,17 @@ it isnt a type of person using the app, it is a person in a type of situation, t
 there was once a sandwich restaurant that wanted to add alow carb low fat option to the menu and asked people: would you order a healthier sandwich? 
 people thought: oh gee if i say no i am sounding like an idiot and said yes
 well... the sandwich died, no one ate it, and this shows us: ask questions that dont lead, and more importantly: that arent filled with bias, dont ask users what they want! and dont assume that users will tell you what they want! users are liars if asked outrightly (and in wrong ways)
+
+people tend to learn one way to use an application and stick to it
+people usually do these 3 things:
+1. learn how it works and use it like that
+2. learn 20% of the funcs cuz thry dont need more, never will
+3. form their own understanding of how it works
+
+### dont just write use cases, write exceptions, a usecase is: when the user types a message and clicks send he will send it, but an exception is when this wont happen, think what happens then, will the info get discarded? will they be able to send it later?
+
+### add some kaizen when starting a task or writing one: do small extras and think of how they male stuff easier! did a user already fill out some infos? well then save them in a cookie, make it faster, always try and think of small improvements on every step!
+
 
 
 
