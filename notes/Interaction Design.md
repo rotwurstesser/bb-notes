@@ -3,7 +3,7 @@ attachments: [Clipboard_2019-09-13-09-13-18.png, Clipboard_2019-09-13-09-22-06.p
 tags: [skewl]
 title: Interaction Design
 created: '2019-09-09T15:16:36.789Z'
-modified: '2019-09-28T21:05:44.038Z'
+modified: '2019-09-29T21:00:15.957Z'
 ---
 
 # Interaction Design
@@ -70,6 +70,11 @@ people like to over estimate the PERSONAL factors in things and underestimate SI
 it isnt a type of person using the app, it is a person in a type of situation, think of five librarians, two are 25 year old POC, the rest is between 40 and 75, and from sweden, some play MTG, others DnD, others read norwegian thrillers in the spare time, bit they all want a good librarian application allowing them to work fast and easy!
 
 #### apps we design are solutions for problems, problems are situational! people are not! we do not need to know who they are or what they do in the spare time! we need to know what problems they face and need to give them tools to solve it!
+
+there was once a sandwich restaurant that wanted to add alow carb low fat option to the menu and asked people: would you order a healthier sandwich? 
+people thought: oh gee if i say no i am sounding like an idiot and said yes
+well... the sandwich died, no one ate it, and this shows us: ask questions that dont lead, and more importantly: that arent filled with bias, dont ask users what they want! and dont assume that users will tell you what they want! users are liars if asked outrightly (and in wrong ways)
+
 
 
 _____________________
