@@ -3,7 +3,7 @@ attachments: [Clipboard_2019-09-13-09-13-18.png, Clipboard_2019-09-13-09-22-06.p
 tags: [skewl]
 title: Interaction Design
 created: '2019-09-09T15:16:36.789Z'
-modified: '2019-09-29T21:24:49.717Z'
+modified: '2019-10-01T19:40:26.031Z'
 ---
 
 # Interaction Design
@@ -84,6 +84,13 @@ people usually do these 3 things:
 ### dont just write use cases, write exceptions, a usecase is: when the user types a message and clicks send he will send it, but an exception is when this wont happen, think what happens then, will the info get discarded? will they be able to send it later?
 
 ### add some kaizen when starting a task or writing one: do small extras and think of how they male stuff easier! did a user already fill out some infos? well then save them in a cookie, make it faster, always try and think of small improvements on every step!
+
+Tipps to work like this:
+- design a flowchart before you finish the screens, think if thos flow is how suers interact when they are in this situation
+- learn how people think, not just how they look! read more books about psychology
+- research situation through contextual inquiry and immersion
+- skip personal details on personas! they suck! idc if betty went to harvard!
+- write use cases
 
 
 
