@@ -3,7 +3,7 @@ attachments: [Clipboard_2019-09-13-09-13-18.png, Clipboard_2019-09-13-09-22-06.p
 tags: [skewl]
 title: Interaction Design
 created: '2019-09-09T15:16:36.789Z'
-modified: '2019-10-01T19:40:26.031Z'
+modified: '2019-10-03T20:04:53.001Z'
 ---
 
 # Interaction Design
@@ -93,6 +93,16 @@ Tipps to work like this:
 - write use cases
 
 
+
+dont surface things up like error messages, it makes stuff harder to learn
+
+make wireframes first, focus on the the 3 Rs:
+- Requirements.  It’s easy to let a pet feature make its way into work.
+Do not let things that end with "that would be nice to have" get into your product in the first round. Put them on a separate list and see what’s still important later on. If everyone still wants it, put it in. When you’re staring at your screen and drawing out all the little boxes and widgets that make up your interface, stick to your guns. Stick to what’s required. The items that are required are the most important, and therefore the only ones that should get any attention.
+- Reduction. be sure to reduce as much as possible. Reduce clutter, reduce redundancy, reduce the possibility of user error,reduce, reduce, reduce. Then reduce some more. If you can find a way to make one widget serve three purposes while maintaining an obvious usage model, do it. If you can turn seven words into two, do it. If you can get rid of an entire interaction because the information it’s intended to acquire can be obtained another way, do it, do it, do it.
+All of this reduction will result in a significantly more clear and usable interface. Again, remember Einstein’s rule: "Everything should be made as simple as possible, but not simpler."
+- Regularity. Regularity is really about making it look like you did things intentionally. It’s about using the same font and font size for all form labels, lining up input fields so they create a consistent design, using the same spacing in all blocks of text, the same colors for similar or related interface elements, and on. Regularity means that if one text field is 20 pixels in from the left edge, and the next one is part of the same form, it should sit 20 pixels in from the left edge as well. Regularity is the notion of organizing, aligning, synchronizing, and optimizing interface elements so that they provide a clear, clean, aesthetically pleasing interface.
+Of course, if you want something to pop out, you can do the opposite. Moving a single element out of line enough to look like you did it intentionally is often exactly what you need to make that element stand out from the rest of the page and show the user that this particular element is important somehow. Color can do this trick as well. If everything in your interface uses light, muted colors, you might make the Incredibly Important Note from Marketing a different color—something darker—to make it noticeable on the page. Tricks like this are used to draw the eye straight to that spot. So regularize everything that needs to look uniform, but use irregularity to communicate importance and provide additional meaning.
 
 
 _____________________
