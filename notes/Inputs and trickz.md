@@ -4,7 +4,7 @@ favorited: true
 tags: [skewl]
 title: Inputs and trickz
 created: '2019-09-09T14:25:19.432Z'
-modified: '2019-10-06T19:28:07.722Z'
+modified: '2019-10-06T19:29:54.329Z'
 ---
 
 # Inputs and trickz
@@ -39,6 +39,7 @@ You’ll want systems for things like:
 • Height
 • Box shadows
 
+You don’t have to define all of this stuff ahead of time, just make sure you’re approaching design with a system-focused mindset, dont make the same minor descisions twice!!!!
 
 
 inputs of friends in design 💕
