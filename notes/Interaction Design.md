@@ -3,7 +3,7 @@ attachments: [Clipboard_2019-09-13-09-13-18.png, Clipboard_2019-09-13-09-22-06.p
 tags: [skewl]
 title: Interaction Design
 created: '2019-09-09T15:16:36.789Z'
-modified: '2019-10-03T20:04:53.001Z'
+modified: '2019-10-05T07:43:38.420Z'
 ---
 
 # Interaction Design
@@ -103,6 +103,11 @@ Do not let things that end with "that would be nice to have" get into your produ
 All of this reduction will result in a significantly more clear and usable interface. Again, remember Einstein’s rule: "Everything should be made as simple as possible, but not simpler."
 - Regularity. Regularity is really about making it look like you did things intentionally. It’s about using the same font and font size for all form labels, lining up input fields so they create a consistent design, using the same spacing in all blocks of text, the same colors for similar or related interface elements, and on. Regularity means that if one text field is 20 pixels in from the left edge, and the next one is part of the same form, it should sit 20 pixels in from the left edge as well. Regularity is the notion of organizing, aligning, synchronizing, and optimizing interface elements so that they provide a clear, clean, aesthetically pleasing interface.
 Of course, if you want something to pop out, you can do the opposite. Moving a single element out of line enough to look like you did it intentionally is often exactly what you need to make that element stand out from the rest of the page and show the user that this particular element is important somehow. Color can do this trick as well. If everything in your interface uses light, muted colors, you might make the Incredibly Important Note from Marketing a different color—something darker—to make it noticeable on the page. Tricks like this are used to draw the eye straight to that spot. So regularize everything that needs to look uniform, but use irregularity to communicate importance and provide additional meaning.
+
+try the fivesecondtest on www.fivesecondtest.com : if you need a screen to be clear and concise then show a group of people the screen or page for 5 seconds and ask them to note all things they remember and saw and check if it is what you expected and wanted.
+
+when users need to read a manual to use an application the application becomes a chore and chores arent fiun, instead of always using a tooltip to esplain stuff try using it on hover, dont ALWAYS show users a screen with 4 infos about the app, only do it on first login.
+
 
 
 _____________________
