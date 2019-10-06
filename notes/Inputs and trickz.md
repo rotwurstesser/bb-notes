@@ -1,10 +1,10 @@
 ---
-attachments: [Clipboard_2019-10-06-17-21-20.png, Clipboard_2019-10-06-17-42-53.png, Clipboard_2019-10-06-17-44-34.png, Clipboard_2019-10-06-17-50-53.png]
+attachments: [Clipboard_2019-10-06-17-21-20.png, Clipboard_2019-10-06-17-42-53.png, Clipboard_2019-10-06-17-44-34.png, Clipboard_2019-10-06-17-50-53.png, Clipboard_2019-10-06-21-23-43.png, photo5825873831808578081.png]
 favorited: true
 tags: [skewl]
 title: Inputs and trickz
 created: '2019-09-09T14:25:19.432Z'
-modified: '2019-10-06T15:51:06.384Z'
+modified: '2019-10-06T19:28:07.722Z'
 ---
 
 # Inputs and trickz
@@ -20,8 +20,28 @@ Your interface will need:
 • A field for the return date
 • A button to perform the search
 
+before you go wild on all the options preset some and hold yourselfs to these!
+![](@attachment/photo5825873831808578081.png)
 
-inputs andrea and ioana Design
+a nice trick by nick is to just pick some random nice feeling shades from a image and delete the ones that dont fit (design by elimination)
+
+![](@attachment/Clipboard_2019-10-06-21-23-43.png)
+
+The more systems you have in place, the faster you’ll be able to work and the less you’ll second guess your own decisions.
+You’ll want systems for things like:
+• Font size
+• Font weight
+• Line height
+• Color
+• Margin
+• Padding
+• Width
+• Height
+• Box shadows
+
+
+
+inputs of friends in design 💕
 
 netflix -> abstract
 
@@ -48,6 +68,8 @@ design need to do stuff, what does it need to do? what basics of information do 
 ![](@attachment/Clipboard_2019-10-06-17-44-34.png)
 ## this helps us tailor solutions for this problem
 ![](@attachment/Clipboard_2019-10-06-17-50-53.png)
+
+
 
 
 
