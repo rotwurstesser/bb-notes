@@ -4,7 +4,7 @@ favorited: true
 tags: [skewl]
 title: Inputs and trickz
 created: '2019-09-09T14:25:19.432Z'
-modified: '2019-10-06T19:29:54.329Z'
+modified: '2019-10-07T08:27:23.798Z'
 ---
 
 # Inputs and trickz
@@ -40,6 +40,12 @@ You’ll want systems for things like:
 • Box shadows
 
 You don’t have to define all of this stuff ahead of time, just make sure you’re approaching design with a system-focused mindset, dont make the same minor descisions twice!!!!
+
+dont always just use font size, also use boldness of font and colors!
+make primaries bold for example and therefore be able to use more reasonable font sizes
+and also when you have sub elements use lighter colors so they can stay the same font size and not make reading feel weird and strange
+
+stop using 1440px artboards in Sketch and start using artboards with 1920px width because: how does the page look on big screens. which elements are going till the edge, is the site limited? do we use a wider grid? is the type getting bigger? lots of questions
 
 
 inputs of friends in design 💕
