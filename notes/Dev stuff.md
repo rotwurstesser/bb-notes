@@ -1,7 +1,7 @@
 ---
 title: Dev stuff
 created: '2019-10-08T06:18:12.646Z'
-modified: '2019-10-09T08:20:47.378Z'
+modified: '2019-10-09T08:22:49.727Z'
 ---
 
 # Dev stuff
@@ -27,4 +27,4 @@ inital page load:
 - when you got a new component always start with component state, only go into store if you really really really need it on one more place !!!!
 - prefix services and models and (store)modules, you can then search in files like "searchstring" in *.service.js
 - always use mapactions, mapgetters, mapstate, never this.$store.dispatch crap
-- always use vuex router with sync(store, router, {moduleName: "Router"}) so you always have the router state everywhere
+- always use vuex router with <pre> sync(store, router, {moduleName: "Router"}) </pre> so you always have the router state everywhere so in vue component you usually have this.$.router but if you have sync you can use <pre> rootState.Router.name ==="home" </pre>
