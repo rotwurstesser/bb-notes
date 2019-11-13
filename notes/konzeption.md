@@ -1,7 +1,7 @@
 ---
 title: konzeption
 created: '2019-11-01T07:20:05.073Z'
-modified: '2019-11-01T15:18:13.746Z'
+modified: '2019-11-02T07:21:27.023Z'
 ---
 
 # konzeption
@@ -15,6 +15,8 @@ verständnis kommunizieren/herstellebn! eine analyse machen jnd dann zusammen fa
 beschreib was du machst damit du per change request sachen schützen kannst, mach eine idee verbindlich! vereinbare umfänge und setze grundlagen dafür!
 eine idee die man nicht erklären kann hat man nicht verstanden! 
 use data! look at data of analytics and other stuff to get info to build better concepts! pull ideas from the data and argument them clearly! do not lose yourself in abstractions ore suggestive stuff
+
+berücksichtige für wen du schreibst! übersetze was du meinst
 
 aufgabe: 
 erkläre wie man einen weg vom bahnhof ins zimmer findet:
@@ -40,10 +42,7 @@ durch die personalisierung kann man auch userprofile haben welche automatisierte
 - ausgabe seite mit bild und infos
 
 
-1. strategie kickoff
-
-
-invision concept:
+1. strategie kicko
 
 
 

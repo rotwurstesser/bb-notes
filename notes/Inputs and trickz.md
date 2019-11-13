@@ -4,7 +4,7 @@ favorited: true
 tags: [skewl]
 title: Inputs and trickz
 created: '2019-09-09T14:25:19.432Z'
-modified: '2019-10-07T08:27:23.798Z'
+modified: '2019-11-13T07:56:23.390Z'
 ---
 
 # Inputs and trickz
@@ -100,7 +100,8 @@ print infos, highlight -> main infos -> only think about visualizing this datase
 IOANA pro tipps:
 ### never flip images with people in them!!!!
 people's faces are not symmetrical
-
+### on new apps/sites that you relase
+ think there is a huge risk of creating frustration because they HAVE to use the app and it’s not necessarily their choice. i think when you chose something, you are much more understanding or forgiving towards little problems.
 
 Ioana Mitrea 6:17 PM
 now the title - you see it makes a little triangle?
