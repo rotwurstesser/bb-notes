@@ -1,11 +1,24 @@
 ---
 title: konzeption
 created: '2019-11-01T07:20:05.073Z'
-modified: '2019-11-02T07:21:27.023Z'
+modified: '2020-02-14T08:16:21.343Z'
 ---
 
 # konzeption
 
+## knopp
+
+analyse
+gestalten ist entscheiden
+double diamond stategy: analyse ganz offen und alles einlassen, bei planung wieder einschliessen
+
+eckpfeiler für konzept:
+ziel
+stakeholder
+projektrahmen
+anforderung
+
+__________________
 zuerst thematische bezugs fragen! 
 yo was braucht ihr? was habt ihr? was habt ihr schon probiert?
 wir machen nicht kunst, wir lösen probleme
@@ -41,8 +54,29 @@ durch die personalisierung kann man auch userprofile haben welche automatisierte
 - prozess seite mit fragen 
 - ausgabe seite mit bild und infos
 
+- Aufgabe / Verständnis (um wen gehts?)
 
-1. strategie kicko
+-Analyse
+	-Zielgruppe (nicht unbedingt Personas)
+	- (keine Stakeholder etc)
+	- Interne
+	-externe
+
+	- digitale Aspekte
+		-mobile
+		- Content
+
+- Fazit
+
+beim nächsten mal Herleitung
+entlang welcher Grundgedanken, von dieser Herleitung, ist welche Lösung/Idee angestrebt
 
 
+-Ansatz
+	-Was soll gemacht werden?
+	-Struktur und Bestandteile inkl. Skizzen mit Beschrieb
+
+> Designansatz
+
+technische rahmenbedingungen.
 
